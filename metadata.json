@@ -1,0 +1,6 @@
+{
+  "name": "URBAN MART CRM & Supermarket Management System",
+  "description": "Professional supermarket management, GRN inward counter, and POS billing web application with real-time stock ledger, GST calculation, thermal receipt printing, and CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
